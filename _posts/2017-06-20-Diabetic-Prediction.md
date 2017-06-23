@@ -3,7 +3,7 @@ layout: post
 title: Diabetes Predictions
 ---
 
-![Data Distribution](https://github.com/srikanta-patra/GA_Capstone/blob/master/images/dist_plot.png){:class="img-responsive"}
+![_config.yml](https://github.com/srikanta-patra/GA_Capstone/blob/master/images/dist_plot.png)
 
 The diabetes dataset is based on a study conducted in Arizona on Pima Indian females since 1965 National Institute of Diabetes 
 and Digestive and Kidney Diseases. There is a set of 8 features available such as glucose concentration, Blood Pressure, 
