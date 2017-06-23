@@ -9,4 +9,4 @@ age etc. The target of this project is to explore the relationships between the 
 Use various machine lerning models to arrive at the most accurate model to predict whether the subject is diabetic or 
 non-diabetic.
 
-![_config.yml]({{ site.baseurl }}/images/capstone_nb_map.png)
+![_config.yml](http://www.oxfordahsn.org/wp-content/uploads/2015/07/cn-diabeties-banner-001.jpg)
