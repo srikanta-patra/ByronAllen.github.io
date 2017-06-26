@@ -2,7 +2,7 @@
 layout: post
 title: House Rent Analysis (WIP)
 ---
-![_config.yml](../images/house.png){:height="100px" width="100px"}
+![_config.yml](../images/house.png){:height="200px" width="400px"}
 
 
 Off late I have been searching for a rented accommodation which should be close to school. This gave rise to an idea of trying out this data science project. 
