@@ -1,7 +1,11 @@
-### House Rent Analysis (WIP)
+---
+layout: post
+title: House Rent Analysis (WIP)
+---
+![_config.yml](../images/house.png)
 
-Off late I have been searching for a rented accommodation which is close to school. This gave rise to an idea of trying out this 
-data science project. 
+
+Off late I have been searching for a rented accommodation which should be close to school. This gave rise to an idea of trying out this data science project. 
 
 Purpose of this project is to
 
