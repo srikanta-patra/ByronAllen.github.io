@@ -9,7 +9,7 @@ Off late I have been searching for a rented accommodation which should be close 
 
 Purpose of this project is to
 
-1. Scrape www.realestate.com.au
+1. Scrape [www.realestate.com.au](www.realestate.com.au)
 
 2. Using Google API to find the coordinates of house.
 
@@ -18,3 +18,5 @@ Purpose of this project is to
 4. Verify the trends in house prices based on its distance from the nearest school.
 
 5. Use Machine Learning to Predict prices based on distance from school.
+
+[Github Project](https://github.com/srikanta-patra/realestate)
