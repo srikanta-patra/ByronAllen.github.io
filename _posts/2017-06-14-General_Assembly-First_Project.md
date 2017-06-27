@@ -2,7 +2,7 @@
 layout: post
 title: Python Programming Constructs
 ---
-![_config.yml](https://www.python.org/static/img/python-logo.png){:height="100px" width="100px"}
+![_config.yml](https://www.python.org/static/img/python-logo.png)
 
 This is the first project I executed at General Assembly Data Science Immiersive Course.
 
