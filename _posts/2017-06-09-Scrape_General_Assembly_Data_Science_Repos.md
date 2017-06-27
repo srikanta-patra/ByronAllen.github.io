@@ -2,7 +2,7 @@
 layout: post
 title: Scrape Repo links from General Assembly Data Science Course
 ---
-![_config.yml](https://generalassemb.ly/)
+![_config.yml](http://sds.parsons.edu/elab/files/2015/08/GeneralAssembly_logo-300x101.png)
 
 This project was developed to aid all my fellow classmates at General Assembly Data Science Course to easily download all the 
 repos stored in General Assembly's repo. This helped everyone download all latest repos to their local system before the access 
